@@ -7,6 +7,7 @@ name = "pypi"
 pandas = "*"
 scikit-learn = "*"
 streamlit = "*"
+numpy = "*"
 
 [dev-packages]
 autopep8 = "*"
